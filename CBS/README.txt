@@ -5,17 +5,18 @@ inputs/*cbs:
   test programs obtained by concatenating several combinations of files 
   https://plancomps.github.io/CBS-beta/Languages-beta/OCaml-Light/
 
-execs/flexible:       parser, flexible BNF combinators
+execs/flexible:       parser, flexible BNF combinators without lookahead
 execs/flexible-look:  parser, flexible BNF combinators with lookahead
-execs/binarised:      parser, flexible BNF combinators with binarisation
-execs/binarised-look: parser, flexible BNF combinators with binarisation and lookahead
+execs/binarised:      parser, flexible BNF combinators with binarisation and without lookahead
+execs/binarised-look: parser, flexible BNF combinators with binarisation and with lookahead
+execs/fungll:         parser, flexible FUN-GLL combinators without lookahead and without grammar generation
 
-built on Ubuntu 14.04 with GHC 8.2.1
+built on Ubuntu 20.04 with GHC 9.2.8
 
 ===
 REPRODUCE DATA
 ===
-last performed on 01/09/2018
+last performed on 24/06/2023
 
 0) Installing dependencies
 
