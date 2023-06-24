@@ -1,0 +1,2493 @@
+char 
+* ID ,  
+* * ID ,  
+* ID = STRING ;  
+
+int 
+ID = INTEGER ,  
+ID = INTEGER ,  
+ID ,  
+ID ;  
+
+int ID = INTEGER ;  
+
+char * ID = STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING 
+STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING ; 
+
+ID * ID = ID ; 
+void * ID = ID ; 
+ID * ID = ID ; 
+void * ID = ID ; 
+ID * ID = ID ; 
+void * ID = ID ; 
+ID * ID = ID ; 
+void * ID = ID ; 
+
+ 
+static int ID = INTEGER ; 
+
+ID * ID ; 
+
+ID * ID ( char * ID , ID * ID ) 
+{ 
+if ( ID ) 
+{ 
+ID * ID = ( ID * ) ID ( sizeof ( ID ) , ID ) ; 
+if ( ID != ID ) 
+ID -> ID = ID ; 
+else 
+ID ( ID , ID , sizeof ( ID ) ) ; 
+return ID ; 
+} 
+else 
+return ID ; 
+} 
+
+ID * ID ( char * ID , ID * ID ) 
+{ 
+if ( ID ) 
+{ 
+ID = ( ID * ) ID ( sizeof ( ID ) , ID ) ; 
+if ( ID != ID ) 
+ID -> ID = ID ; 
+else 
+ID ( ID , ID , sizeof ( ID ) ) ; 
+
+( ( ID * ) ID ( sizeof ( ID ) , ID , ID ) ) -> ID = INTEGER ; 
+return ID ; 
+} 
+else 
+return ID ; 
+} 
+
+ID * ID ( char * ID , ID * ID ) 
+{ 
+if ( ID ) 
+{ 
+ID * ID = ( ID * ) ID ( sizeof ( ID ) , sizeof ( ID ) , ID ) ; 
+if ( ID != ID ) 
+ID -> ID = ID ; 
+else 
+ID ( ID , ID , sizeof ( ID ) ) ; 
+
+( ( ID * ) ID ( ID ) ) -> ID = INTEGER ; 
+
+return ID ; 
+} 
+else 
+return ID ; 
+} 
+
+
+ 
+static void ID ( void ) 
+{ 
+ID ( STRING , STRING , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , STRING , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , STRING , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , STRING , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+} 
+
+ 
+
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+
+ 
+
+static void ID ( void ) 
+{ 
+ID ( & ID , ID , ID , ID , ID , ID  , ID  , 
+ID  , ID  , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID  , ID  , 
+ID  , ID  , ID  , ID  , ID  , 
+ID  , ID  , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID  , ID  , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID  , ID  , 
+ID  , ID  , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID  , ID  , 
+ID  , ID  , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID  , ID  , 
+ID  , ID  , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID  , ID  , ID  , ID  , 
+ID  , ID ) ; 
+ID ( & ID , ID , ID  , ID ) ; 
+ID ( & ID , ID , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , 
+ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , 
+ID , ID ) ; 
+ID ( & ID , ID , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID  , ID ) ; 
+ID ( & ID , ID , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , 
+ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID  , ID  , ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID ) ; 
+ID ( & ID , ID , ID , ID , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID  , ID  , ID  , ID  , 
+ID  , ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID  , ID  , 
+ID  , ID  , ID  , ID  , ID  , 
+ID  , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID  , ID  , ID  , 
+ID  , ID ) ; 
+ID ( & ID , ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , ID , 
+ID , ID , ID , ID , 
+ID , ID , ID , ID , ID ) ; 
+ID ( & ID , ID , ID ) ; 
+} 
+
+ 
+static char * ID ( ID * ID ) ; 
+static char * ID ( ID * ID ) ; 
+static void ID ( ID * ID ) ; 
+static ID * ID ( ID * ID ) ; 
+static ID * ID ( ID * ID ) ; 
+static ID * ID ( ID * ID ) ; 
+static ID * ID ( ID * ID ) ; 
+static ID * ID ( ID * ID ) ; 
+static ID * ID ( ID * ID ) ; 
+static char * ID ( ID * ID ) ; 
+void ID ( ID * ID ) ; 
+
+ 
+static char * ID ( ID * ID ) 
+{ 
+char * ID ; 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+ID ( ID , & ID , & ID ) ; 
+} 
+return ID ; 
+} 
+
+static char * ID ( ID * ID ) 
+{ 
+char * ID ; 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+ID ( ID , & ID , & ID ) ; 
+} 
+return ID ; 
+} 
+
+static void ID ( ID * ID ) 
+{ 
+char * ID ; 
+char * ID ; 
+char * ID ; 
+char * ID ; 
+char * ID ; 
+long int ID ; 
+long int ID ; 
+char * ID ; 
+char * ID ; 
+char * ID ; 
+char * ID ; 
+char * ID ; 
+long int ID ; 
+char * ID ; 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+if ( ID ( ID ) == ID )  
+ID ( ID , STRING , ID ) ;  
+else  
+{  
+ID ( ) ;  
+ID ( ) ;  
+}  
+ 
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID ( ID , ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID ( ID , ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID ( ID , ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID ( ID , ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+ID * ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID = ( ID * ) ID ( sizeof ( ID ) ) ;  
+ID -> ID = ID ;  
+ID -> ID = ( unsigned ) ID ;  
+ID -> ID = ( unsigned ) ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID = ID ;  
+ 
+} 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+ID * ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID = ( ID * ) ID ( sizeof ( ID ) ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID = ID ;  
+ 
+} 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ; ID -> ID ++ ;  
+} 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+ID = ( unsigned ) ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+ID = ( unsigned ) ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+ID = ( unsigned ) ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID = INTEGER ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+ID = ( unsigned ) ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+ID = ( unsigned ) ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , & ID , ID ) ) 
+{ 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID = INTEGER ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID = INTEGER ; ID = INTEGER ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID = INTEGER ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID = ID ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+if ( ID == INTEGER ) {  
+ID = INTEGER ;  
+} 
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID = INTEGER ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID = INTEGER ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID = INTEGER ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID ( ID ( STRING , ID ) ) ; 
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+ID ( ID ( STRING , ID ) ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+ID ( ID , & ID , & ID ) ; 
+} 
+} 
+
+static ID * ID ( ID * ID ) 
+{ 
+ID * ID ; 
+char * ID ; 
+char * ID ; 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+ID ( ID , & ID , & ID ) ; 
+} 
+return ID ; 
+} 
+
+static ID * ID ( ID * ID ) 
+{ 
+ID * ID ; 
+char * ID ; 
+long int ID ; 
+ID * ID ; 
+long int ID ; 
+char * ID ; 
+{ 
+int ID = ID ; 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+ID -> ID = INTEGER ;  
+ID -> ID ++ ;   
+ 
+} 
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ( unsigned ) ID ;  
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID ( STRING , ID , ID ++ ) , ID , ID ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID ++ ;  
+ID -> ID = INTEGER ;  
+ID -> ID = INTEGER ;  
+ 
+} 
+if ( ID ( ID , & ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+if ( ID == INTEGER ) {  
+ID ( ID , STRING ) ;  
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID ( ID , & ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = INTEGER ;   
+} 
+if ( ID ( ID , ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID == INTEGER ) {  
+if ( ID -> ID == INTEGER ) ID -> ID = INTEGER ;  
+if ( ID -> ID != INTEGER && ( ID -> ID < ID -> ID ) )  
+ID ( ID , STRING ) ;  
+ 
+} if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+if ( ID ( ID , & ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID ( STRING , ID , ID ++ ) , ID , ID ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID ; ID -> ID = INTEGER ;  
+ID -> ID ++ ;  
+ID -> ID = INTEGER ;  
+ID -> ID = INTEGER ;  
+ 
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID ( STRING , ID , ID ++ ) , ID , ID ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID ; ID -> ID = INTEGER ;  
+ID -> ID ++ ;  
+ID -> ID = INTEGER ;  
+ID -> ID = INTEGER ;  
+ 
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID ( STRING , ID , ID ++ ) , ID , ID ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID ++ ;  
+ID -> ID = INTEGER ;  
+ID -> ID = INTEGER ;  
+ 
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+ID ( ID , & ID , & ID ) ; 
+} 
+return ID ; 
+} 
+
+static ID * ID ( ID * ID ) 
+{ 
+ID * ID ; 
+char * ID ; 
+long int ID ; 
+double ID ; 
+char * ID ; 
+char * ID ; 
+char * ID ; 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+ID ( ID ) ;  
+ID -> ID ++ ;   
+ID -> ID = ID ;  
+ 
+} if ( ID == INTEGER && ID -> ID ) { 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ( ID , & ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+ID * ID ; 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID -> ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ 
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID . ID ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID -> ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ 
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID -> ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ 
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID -> ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ 
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+} 
+if ( ! ID ( ID , & ID , ID ) ) break ; 
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID = ( ID * ) ID ( ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ( ID , ID , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+ID ( ID , STRING ) ; 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID ( ID , STRING , ID ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID ( ID , STRING ) ;  
+} 
+} 
+else 
+if ( ID ( ID , ID , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID ( ID , STRING ) ;  
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+ID ( ID , & ID , & ID ) ; 
+} 
+return ID ; 
+} 
+
+static ID * ID ( ID * ID ) 
+{ 
+ID * ID ; 
+ID * ID ; 
+{ 
+ID * ID ; if ( ID == INTEGER ) {  
+ID = ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+} 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+ID = ID -> ID ;  
+ID -> ID = ID ( ID ( STRING , ID , ID ++ ) , ID , ID ) ;  
+ID -> ID -> ID ++ ;  
+ID -> ID -> ID = ID ;  
+ 
+} 
+} 
+if ( ID -> ID != ID  ) break ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ) ; 
+} 
+}  
+if ( ID == INTEGER ) {  
+ID = ID -> ID ;  
+} 
+ID ( ID , & ID , & ID ) ; 
+} 
+return ID ; 
+} 
+
+static ID * ID ( ID * ID ) 
+{ 
+ID * ID ; 
+char * ID ; 
+char * ID ; 
+ID * ID ; 
+{ 
+unsigned ID ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+ID = ID ; ID = INTEGER ;  
+ID ++ ;  
+ID = ID ( ID , ID , ID == INTEGER ? ID : ID ) ;  
+if ( ID == ID )  
+{  
+ID = ID ;  
+ID -> ID ++ ;  
+}  
+
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID -> ID = INTEGER ; 
+if ( ID ( ID , ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+ID * ID ; ID = STRING ; ID = INTEGER ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID ++ ; 
+} 
+if ( ! ID ( ID , ID  , ID ) ) break ; 
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID == INTEGER ) {  
+ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID -> ID ;  
+ID -> ID = ID ;  
+ 
+} 
+} 
+if ( ! ID ( ID , ID , ID ) ) break ; 
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+ID = STRING ; ID = INTEGER ; 
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID ++ ; 
+} 
+if ( ! ID ( ID , ID  , ID ) ) break ; 
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+if ( ID ( ID , & ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID -> ID = ID ;  
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+ID = INTEGER ;  
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID == INTEGER ) {  
+ID ++ ;  
+ID -> ID = ID ;  
+ID -> ID = INTEGER ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ 
+} 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+ID ( ID , & ID , & ID ) ; 
+} 
+return ID ; 
+} 
+
+static ID * ID ( ID * ID ) 
+{ 
+ID * ID ; 
+ID * ID ; 
+char * ID ; 
+char * ID ; 
+{ 
+ID * ID ; int ID ; int ID ; if ( ID == INTEGER ) {  
+ID = ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+} 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID == INTEGER ) {  
+ID = ID ; ID = ID ; ID = ID ;  
+} 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , & ID , ID ) ) 
+{ 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , & ID , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = INTEGER ; 
+} 
+else 
+if ( ID ( ID , & ID , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID = ID -> ID ; 
+ID ( ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID ( ID , & ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+else 
+if ( ID ( ID , & ID , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+ID = INTEGER ; 
+if ( ID == INTEGER ) {  
+ID = ID -> ID ; ID = ID ;  
+} 
+if ( ID ( ID , ID  , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID ( ID , ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID ( ID , STRING ) ;  
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+if ( ID ( ID , & ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+ID = ID ( ID ( STRING , ID ) ) ; 
+if ( ID ( ID , & ID , ID ) ) 
+{  
+while ( INTEGER ) 
+{ 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+else 
+if ( ID ( ID , & ID , ID ) ) 
+{ 
+{  
+while ( INTEGER ) 
+{ 
+ID ( ID , & ID , & ID ) ; 
+{ 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+if ( ID ( ID , ID  , ID ) ) 
+{ 
+if ( ID ) ID ( ID , ID ) ; 
+ID ( ID , ID  , & ID ) ; 
+ID ( ) ; 
+if ( ID == INTEGER ) {  
+ID = ID ;  
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+break ;  
+} 
+}  
+else 
+{ 
+ 
+if ( ID ) { ID * ID = ID ( ID , ID ) ; ID -> ID = ID ; ID -> ID = ID ; } 
+} 
+} 
+else 
+ID ( ID , & ID , & ID ) ; 
+} 
+break ;  
+} 
+}  
+if ( ID == INTEGER ) {  
+ID -> ID = ( ID * ) ID ( sizeof ( ID ) , INTEGER ) ;  
+ID = ID -> ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID -> ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ID -> ID = ID ;  
+ 
+} 
+} 
+if ( ! ID ( ID , & ID , ID ) ) break ; 
+} 
+}  
+if ( ID == INTEGER ) {  
+ID = ID -> ID ;  
+} 
+ID ( ID , & ID , & ID ) ; 
+} 
+return ID ; 
+} 
+
+

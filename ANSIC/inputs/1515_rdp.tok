@@ -1,0 +1,231 @@
+
+char 
+* ID ,  
+* * ID ,  
+* ID = STRING ;  
+
+int 
+ID = INTEGER ,  
+ID = INTEGER ,  
+ID ,  
+ID ;  
+
+int ID = INTEGER ;  
+
+char * ID = STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING 
+STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING STRING 
+STRING STRING STRING STRING STRING STRING STRING ; 
+
+ID * ID = ID ; 
+void * ID = ID ; 
+ID * ID = ID ; 
+void * ID = ID ; 
+ID * ID = ID ; 
+void * ID = ID ; 
+ID * ID = ID ; 
+void * ID = ID ; 
+
+ 
+static int ID = INTEGER ; 
+
+ID * ID ; 
+
+ID * ID ( char * ID , ID * ID ) 
+{ 
+if ( ID ) 
+{ 
+ID * ID = ( ID * ) ID ( sizeof ( ID ) , ID ) ; 
+if ( ID != ID ) 
+ID -> ID = ID ; 
+else 
+ID ( ID , ID , sizeof ( ID ) ) ; 
+return ID ; 
+} 
+else 
+return ID ; 
+} 
+
+ID * ID ( char * ID , ID * ID ) 
+{ 
+if ( ID ) 
+{ 
+ID = ( ID * ) ID ( sizeof ( ID ) , ID ) ; 
+if ( ID != ID ) 
+ID -> ID = ID ; 
+else 
+ID ( ID , ID , sizeof ( ID ) ) ; 
+
+( ( ID * ) ID ( sizeof ( ID ) , ID , ID ) ) -> ID = INTEGER ; 
+return ID ; 
+} 
+else 
+return ID ; 
+} 
+
+ID * ID ( char * ID , ID * ID ) 
+{ 
+if ( ID ) 
+{ 
+ID * ID = ( ID * ) ID ( sizeof ( ID ) , sizeof ( ID ) , ID ) ; 
+if ( ID != ID ) 
+ID -> ID = ID ; 
+else 
+ID ( ID , ID , sizeof ( ID ) ) ; 
+
+( ( ID * ) ID ( ID ) ) -> ID = INTEGER ; 
+
+return ID ; 
+} 
+else 
+return ID ; 
+} 
+
+
+ 
+static void ID ( void ) 
+{ 
+ID ( STRING , STRING , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , STRING , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , STRING , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , STRING , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+ID ( STRING , ID , ID  , ID ) ; 
+} 
+
+ 
+
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+ID ID = ID ; 
+
+
