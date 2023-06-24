@@ -25,11 +25,11 @@ last performed on 24/6/2023
 
 Make sure that in GLLCombParser.hs:
 
-  * line 2 is commented out       (import GLL.Combinators.BinaryInterface ...)
-  * line 3 is not commented out   (import GLL.Combinators.Interface ...)
-  * line 4 is not commented out   (import GLL.ParserCombinators ...)
-  * line 537 is not commented out (Lib.printParseDataWithOptions [] ...)
-  * line 538 is commented out     (Lib.printParseDataWithOptions [noSelect...)
+  * line 2    is commented out      (import GLL.Combinators.BinaryInterface ...)
+  * line 3    is not commented out  (import GLL.Combinators.Interface ...)
+  * line 4    is commented out      (import GLL.ParserCombinators ...)
+  * line 537  is not commented out  (Lib.printParseDataWithOptions [] ...)
+  * line 538  is commented out      (Lib.printParseDataWithOptions [noSelect...)
 
   ghc -o execs/flexible-look GLLMain.hs -package gll
 
@@ -47,11 +47,11 @@ The timings in the table are printed as "recognition time".
 
 Make sure that in GLLCombParser.hs
 
-  * line 2 is commented out
-  * line 3 is not commented out
-  * line 4 is commented out 
-  * line 537 is commented out 
-  * line 538 is not commented out
+  * line 2    is commented out
+  * line 3    is not commented out
+  * line 4    is commented out 
+  * line 537  is commented out 
+  * line 538  is not commented out
 
   ghc -o execs/flexible GLLMain.hs -package gll
 
@@ -69,11 +69,11 @@ The timings in the table are printed as "recognition time".
 
 Make sure that in GLLCombParser.hs
 
-  * line 2 is not commented out
-  * line 3 is commented out
-  * line 4 is commented out
-  * line 537 is commented out 
-  * line 538 is not commented out
+  * line 2    is not commented out
+  * line 3    is commented out
+  * line 4    is commented out
+  * line 537  is commented out 
+  * line 538  is not commented out
 
   ghc -o execs/binarised GLLMain.hs -package gll
 
@@ -91,11 +91,11 @@ The timings in the table are printed as "recognition time".
 
  Make sure that in GLLCombParser.hs
 
-  * line 2 is not commented out
-  * line 3 is commented out
-  * line 4 is commented out   (import GLL.ParserCombinators ...)
-  * line 537 is not commented out 
-  * line 538 is commented out
+  * line 2    is not commented out
+  * line 3    is commented out
+  * line 4    is commented out 
+  * line 537  is not commented out 
+  * line 538  is commented out
 
   ghc -o execs/binarised-look GLLMain.hs -package gll
 
@@ -113,11 +113,11 @@ The timings in the table are printed as "recognition time".
 
 Make sure that in GLLCombParser.hs:
 
-  * line 2 is commented out       (import GLL.Combinators.BinaryInterface ...)
-  * line 3 is commented out       (import GLL.Combinators.Interface ...)
-  * line 4 is not commented out   (import GLL.ParserCombinators ...)
-  * line 537 is not commented out (Lib.printParseDataWithOptions [] ...)
-  * line 538 is commented out     (Lib.printParseDataWithOptions [noSelect...)
+  * line 2    is commented out     
+  * line 3    is commented out     
+  * line 4    is not commented out 
+  * line 537  is not commented out 
+  * line 538  is commented out     
 
   ghc -o execs/fungll GLLMain.hs -package fungll-combinators
 
