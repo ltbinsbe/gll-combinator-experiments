@@ -49,7 +49,7 @@ Make sure that in src/Parser.hs:
 
 Make sure that in src/Main.hs:
   * line 9  is not commented out  (import GLL.Combinators ...)
-  * line 10 is commented out      (import GLL.ParserCombonators ...)
+  * line 10 is commented out      (import GLL.ParserCombinators ...)
 
   * line 32 is not commented out  (printParseDataWithOptions [] ...)
   * line 33 is commented out      (printParseDataWithOptions [noSelectTest] ...)
