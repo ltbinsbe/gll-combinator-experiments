@@ -1,4 +1,5 @@
+fungll-combinators-remco-0.4.1.1/
 dist-newstyle/
-cabal.project.local
+cabal.project.local*
 *.swp
 execs/*

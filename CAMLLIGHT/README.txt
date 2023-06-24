@@ -36,9 +36,12 @@ REPRODUCE DATA
 last performed on 24/06/2023
 NB. The lexicalisation phase produces a slightly different number of tokens since 10/08/2018
 
-0) Checking dependencies
+0) Fetching dependencies
 
+   cabal get /local/path/dist-newbuild/sdist/fungll-combinators-remco-0.4.1.1.tar.gz
    cabal configure 
+
+The first command uses a locally installed version of the mentioned package and fetches into the current build environment.
 
 1) Getting the "flexible+" data
 
@@ -46,10 +49,12 @@ Make sure that in src/Parser.hs:
   * line 7 is not commented out   (import GLL.Combinators.Interface ...)
   * line 8 is commented out       (import GLL.Combinators.BinaryInterface ...)
   * line 9 is commented out       (import GLL.ParserCombinators ...)
+  * line 10 is commented out      (import GLL.ParserCombinatorsLookahead ...)
 
 Make sure that in src/Main.hs:
   * line 9  is not commented out  (import GLL.Combinators ...)
-  * line 10 is commented out      (import GLL.ParserCombonators ...)
+  * line 10 is commented out      (import GLL.ParserCombinators ...)
+  * line 11 is commented out      (import GLL.ParserCombinatorsLookahead ...)
 
   * line 32 is not commented out  (printParseDataWithOptions [] ...)
   * line 33 is commented out      (printParseDataWithOptions [noSelectTest] ...)
@@ -73,10 +78,12 @@ Make sure that in src/Parser.hs:
   * line 7 is not commented out
   * line 8 is commented out
   * line 9 is commented out
+  * line 10 is commented out
 
 Make sure that in src/Main.hs:
   * line 9  is not commented out
   * line 10 is commented out
+  * line 11 is commented out
 
   * line 32 is commented out
   * line 33 is not commented out
@@ -98,10 +105,12 @@ Make sure that in src/Parser.hs:
   * line 7 is commented out
   * line 8 is not commented out
   * line 9 is commented out
+  * line 10 is commented out
 
 Make sure that in src/Main.hs:
   * line 9  is not commented out
   * line 10 is commented out
+  * line 11 is commented out
 
   * line 32 is not commented out
   * line 33 is commented out
@@ -123,10 +132,12 @@ Make sure that in src/Parser.hs:
   * line 7 is commented out
   * line 8 is not commented out
   * line 9 is commented out
+  * line 10 is commented out
 
 Make sure that in src/Main.hs:
   * line 9  is not commented out
   * line 10 is commented out
+  * line 11 is commented out
 
   * line 32 is commented out
   * line 33 is not commented out
@@ -146,13 +157,15 @@ The timings in the table are printed as "recognition time".
 5) Getting the "fungll" data
 
 Make sure that in src/Parser.hs:
-  * line 7 is commented out
-  * line 8 is commented out
-  * line 9 is not commented out
+  * line 7  is commented out
+  * line 8  is commented out
+  * line 9  is not commented out
+  * line 10 is commented out
 
 Make sure that in src/Main.hs:
   * line 9  is commented out
   * line 10 is not commented out
+  * line 11 is commented out
 
   * line 32 is not commented out
   * line 33 is commented out
@@ -165,5 +178,32 @@ Make sure that in src/Main.hs:
   execs/fungll inputs/8832_camlc.ml
   execs/fungll inputs/15900_camlc.ml
   execs/fungll inputs/28674_camlc.ml
+
+The timings in the table are printed as "recognition time".
+
+6) Getting the "fungll" data
+
+Make sure that in src/Parser.hs:
+  * line 7  is commented out
+  * line 8  is commented out
+  * line 9  is commented out
+  * line 10 is not commented out
+
+Make sure that in src/Main.hs:
+  * line 9  is commented out
+  * line 10 is commented out
+  * line 11 is not commented out
+
+  * line 32 is not commented out
+  * line 33 is commented out
+
+  cabal build && cp dist-newstyle/build/x86_64-linux/ghc-9.2.8/caml-light-reuse-0.1.0.0/x/rcl/build/rcl/rcl execs/fungll-look
+
+  execs/fungll-look inputs/1097_camlc.ml
+  execs/fungll-look inputs/2808_camlc.ml
+  execs/fungll-look inputs/4531_camlc.ml
+  execs/fungll-look inputs/8832_camlc.ml
+  execs/fungll-look inputs/15900_camlc.ml
+  execs/fungll-look inputs/28674_camlc.ml
 
 The timings in the table are printed as "recognition time".
