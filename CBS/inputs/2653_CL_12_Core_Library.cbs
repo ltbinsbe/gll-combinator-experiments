@@ -1,0 +1,418 @@
+Language "Caml Light"
+
+#12 Core library
+
+Funcon
+  caml-light-library : environments ~>
+   {"minus"
+	|-> int-op-1(integer-negate(given)),
+	"succ"
+	|-> int-op-1(integer-add(given,1)),
+	"pred"
+	|-> int-op-1(integer-subtract(given,1)),
+	"prefix +"
+	|-> int-op-2(integer-add(given)),
+	"prefix -"
+	|-> int-op-2(integer-subtract(given)),
+	"prefix *"
+	|-> int-op-2(integer-multiply(given)),
+	"prefix /"
+	|-> int-op-2(if-true-else(is-equal(arg(2),0),
+					throw(variant("Division_by_zero",null)),
+					integer-divide(given))),
+	"prefix mod"
+	|-> int-op-2(integer-modulo(given)),
+ 	"abs"
+ 	|-> int-op-1(integer-absolute-value(given)),
+	"max_int"
+	|-> op-1(signed-bit-vector-maximum(implemented-integers-width)),
+	"min_int"
+	|-> op-1(signed-bit-vector-minimum(implemented-integers-width)),
+	"max"
+	|-> int-op-2(if-true-else(is-greater(given),arg(1),arg(2))),
+	"min"
+	|-> int-op-2(if-true-else(is-less(given),arg(1),arg(2))),
+	"prefix lnot"
+	|-> bit-vector-op-1(bit-vector-not(given)),
+	"prefix land"
+	|-> bit-vector-op-2(bit-vector-and(given)),
+	"prefix lor"
+	|-> bit-vector-op-2(bit-vector-or(given)),
+	"prefix lxor"	  
+    |-> bit-vector-op-2(bit-vector-xor(given)),
+	"prefix lsl"      
+    |-> op-2(bit-vector-to-integer(bit-vector-shift-left(
+    	  integer-to-bit-vector(implemented-integers-width,arg(1)),
+    	  arg(2)))),
+	"prefix lsr"      
+    |-> op-2(bit-vector-to-integer(bit-vector-logical-shift-right(
+    	  integer-to-bit-vector(implemented-integers-width,arg(1)),
+    	  arg(2)))),
+	"prefix asr"      
+    |-> op-2(bit-vector-to-integer(bit-vector-arithmetic-shift-right(
+    	  integer-to-bit-vector(implemented-integers-width,arg(1)),
+    	  arg(2)))),
+	"string_of_int"   
+    |-> op-1(to-string(given)),
+	"int_of_string"   
+    |->	int-op-1(implemented-integer-literal(given)),
+	
+	"int_of_float"    
+    |-> int-op-1(float-truncate(implemented-floats-format,given)),
+	"float_of_int"    
+    |-> op-1(implemented-float-literal(string-append(to-string(given),".0"))),
+	"minus_float"     
+    |-> op-1(float-negate(given)),
+	"prefix +."		  
+    |-> op-2(float-add(implemented-floats-format,arg(1),arg(2))),
+	"prefix -."		  
+    |-> op-2(float-subtract(implemented-floats-format,arg(1),arg(2))),
+	"prefix *."		  
+    |-> op-2(float-multiply(implemented-floats-format,arg(1),arg(2))),
+	"prefix /."		  
+    |-> op-2(float-divide(implemented-floats-format,arg(1),arg(2))),
+	"prefix **"	      
+    |-> op-2(float-float-power(implemented-floats-format,arg(1),arg(2))),
+	"acos"			  
+    |-> op-1(float-acos(implemented-floats-format,given)),
+	"asin"			  
+    |-> op-1(float-asin(implemented-floats-format,given)),
+	"atan"			  
+    |-> op-1(float-atan(implemented-floats-format,given)),
+	"atan2"			  
+    |-> op-2(float-atan2(implemented-floats-format,arg(1),arg(2))),
+	"cos"			  
+    |-> op-1(float-cos(implemented-floats-format,given)),
+	"cosh"			  
+    |-> op-1(float-cosh(implemented-floats-format,given)),
+	"exp"			  
+    |-> op-1(float-exp(implemented-floats-format,given)),
+	"log"			  
+    |-> op-1(float-log(implemented-floats-format,given)),
+	"log10"			  
+    |-> op-1(float-log10(implemented-floats-format,given)),
+	"sin"			  
+    |-> op-1(float-sin(implemented-floats-format,given)),
+	"sinh"			  
+    |-> op-1(float-sinh(implemented-floats-format,given)),
+	"sqrt"		  	  
+    |-> op-1(float-sqrt(implemented-floats-format,given)),
+	"tan"		  	  
+    |-> op-1(float-tan(implemented-floats-format,given)),
+	"tanh"			  
+    |-> op-1(float-tanh(implemented-floats-format,given)),
+	"ceil"      	  
+    |->int-op-1(float-ceiling(implemented-floats-format,given)),
+    "floor"			  
+    |->int-op-1(float-floor(implemented-floats-format,given)),
+	"abs_float"       
+    |-> op-1(float-absolute-value(given)),
+	"mod_float"       
+    |-> op-1(float-remainder(implemented-floats-format,given)),
+	"string_of_float" 
+    |-> op-1(to-string(given)),
+    "float_of_string" 
+    |-> op-1(implemented-float-literal(given)),
+	
+	"prefix ^"		  
+    |-> op-2(string-append(given)),
+	
+	"prefix ::"       
+    |-> op-1(cons(given)),
+	"list_length"     
+    |->int-op-1(list-length(given)),
+	"prefix @"		  
+    |-> op-2(list-append(given)),
+	"hd"              
+    |-> op-1(else(head(given),
+		  throw(variant("Failure","hd")))),
+	"tl"              
+    |-> op-1(else(tail(given),
+		  throw(variant("Failure","tl")))),
+	"rev"             
+    |-> op-1(list(reverse(list-elements(given)))),
+	
+	"prefix !"		  
+    |-> op-1(assigned(given)),
+	"prefix :="		  
+    |-> op-2(assign(arg(1),arg(2))),
+	"ref"             
+    |-> op-1(allocate-initialised-variable(values,given)),
+	
+	"raise"           
+    |-> op-1(throw(given)),
+	
+	"vect_length"     
+    |->int-op-1(length(vector-elements(given))),
+	"make_vect"	      
+    |-> op-2(if-true-else(is-greater-or-equal(arg(1),0),
+				vector(interleave-map(
+				  allocate-initialised-variable(values,given),
+				  n-of(arg(1),arg(2)))),
+				throw(variant("Invalid_argument","make_vect")))),
+    "concat_vect"     
+    |-> op-2(vector(vector-elements(arg(1)),vector-elements(arg(2)))),
+    "vect_item"		  
+    |-> op-2(else(assigned(index(vector-elements(arg(1)),arg(2))),
+    			throw(variant("Invalid_argument","vect_item")))),
+    "vect_assign"     
+    |-> op-3(else(assign(index(vector-elements(arg(1)),arg(2)),arg(3)),
+				throw(variant("Invalid_argument","vect_assign")))),
+
+    "print_char"      
+    |-> op-1(print(to-string(given))),
+	"print_string"    
+    |-> op-1(print(given)),
+    "print_int"       
+    |-> op-1(print(to-string(given))),
+ 	"print_float"	  
+    |-> op-1(print(to-string(given))),
+	"print_newline"	  
+    |-> op-1(print['\n']),
+
+    "read_line"       
+    |-> op-1(read),
+    "read_int"        
+    |-> op-1(implemented-integer-literal(read)),
+    "read_float"      
+    |-> op-1(implemented-float-literal(read)),
+
+	"prefix <"		  
+    |-> op-2(is-less(given)),
+	"prefix >"		  
+    |-> op-2(is-greater(given)),
+	"prefix <="		  
+    |-> op-2(is-less-or-equal(given)),
+	"prefix >="		  
+    |-> op-2(is-greater-or-equal(given)),
+    "prefix <."		  
+    |-> op-2(float-is-less(
+    		implemented-floats-format,arg(1),arg(2))),
+	"prefix >."		  
+    |-> op-2(float-is-greater(
+    		implemented-floats-format,arg(1),arg(2))),
+	"prefix <=."	  
+    |-> op-2(float-is-less-or-equal(
+    		implemented-floats-format,arg(1),arg(2))),
+	"prefix >=."	  
+    |-> op-2(float-is-greater-or-equal(
+    		implemented-floats-format,arg(1),arg(2))),
+
+    "prefix ="		  
+    |-> op-2(is-structurally-equal(given)),
+	"prefix <>"		  
+    |-> op-2(not(is-structurally-equal(given))),
+    "prefix =="       
+    |-> op-2(if-true-else(is-in-type(ground-values,given),
+				is-equal(given),
+				throw(variant("Invalid_argument","equal: functional value")))),
+    "prefix !="       
+    |-> op-2(if-true-else(is-in-type(ground-values,given),
+				not(is-equal(given)),
+				throw(variant("Invalid_argument","equal: functional value")))),
+    	                         
+    "Division_by_zero" 
+    |->variant("Division_by_zero",null),
+    "Match_failure"    
+    |-> op-1(variant("Match_failure",given)),
+    "Invalid_argument" 
+    |-> op-1(variant("Invalid_argument",given))
+   }
+
+Auxiliary Funcon
+  op-1(X:S=>T) : functions(S,T)
+    ~> function abstraction(X)
+Auxiliary Funcon
+  op-2(X:tuples(S1,S2)=>T) : functions(S1,functions(S2,T))
+    ~> curry(function abstraction(X))
+Auxiliary Funcon
+  op-3(X:tuples(S1,S2,S3)=>T) : functions(S1,functions(S2,functions(S3,T)))
+    ~> curry-n(3,function abstraction(X))
+
+Auxiliary Funcon
+  int-op-1(X:T=>integers) : functions(T,implemented-integers)
+    ~> op-1(implemented-integer(X))
+Auxiliary Funcon
+  int-op-2(X:tuples(S,T)=>integers) : functions(S,functions(T,implemented-integers))
+    ~> op-2(implemented-integer(X))
+
+Auxiliary Funcon
+  arg(N:nats) : => values
+    ~> index(tuple-elements(given),N)
+
+// Consider abbreviating bits(implemented-integers-width)
+Auxiliary Funcon
+  bit-vector-op-1(X:bits(implemented-integers-width)=>bits(implemented-integers-width))
+   : thunks(implemented-integers=>implemented-integers)
+    ~> op-1(bit-vector-to-integer(give(integer-to-bit-vector(implemented-integers-width,given),X)))
+Auxiliary Funcon
+  bit-vector-op-2(X:(bits(implemented-integers-width),bits(implemented-integers-width))=>integers)
+   : thunks(bits(implemented-integers-width)=>thunks(bits(implemented-integers-width)=>implemented-integers))
+    ~> op-2(bit-vector-to-integer(give((integer-to-bit-vector(implemented-integers-width,arg(1)),
+                                  integer-to-bit-vector(implemented-integers-width,arg(2))),
+                                 X)))
+
+Funcon
+  match-failure : variants(M)
+    ~> variant("Match_failure",
+    	("",implemented-integer(0),implemented-integer(0)))
+
+
+Funcon
+  is-structurally-equal(_:T,_:T) : =>booleans
+// Unit
+Rule
+  is-structurally-equal((),()) ~> true
+// Booleans
+Rule
+  is-structurally-equal(B1:booleans,B2:booleans) ~> is-equal(B1,B2)
+// Integers
+Rule
+  is-structurally-equal(I1:implemented-integers,I2:implemented-integers) ~>
+  	is-equal(I1,I2)
+// Floats
+Rule
+  is-structurally-equal(F1:implemented-floats,F2:implemented-floats) ~>
+  	is-equal(F1,F2)
+// Characters
+Rule
+  is-structurally-equal(C1:implemented-characters,C2:implemented-characters) ~>
+  	is-equal(C1,C2)
+// Strings
+Rule
+  is-structurally-equal(S1:implemented-strings,S2:implemented-strings) ~>
+  	is-equal(S1,S2)
+// Functions
+Rule
+  is-structurally-equal(_:functions(_,_),_:functions(_,_)) ~>
+  	throw(variant("Invalid_argument","equal: functional value"))
+// References
+Rule
+  is-structurally-equal(V1:variables,V2:variables) ~>
+  	is-structurally-equal(assigned(V1),assigned(V2))
+// Lists
+Rule
+  is-structurally-equal([],[]) ~> true
+Rule
+  is-structurally-equal([],[V+]) ~> false
+Rule
+  is-structurally-equal([V+],[]) ~> false
+Rule
+  is-structurally-equal([V,V*],[W,W*]) ~>
+  	and(is-structurally-equal(V,W),is-structurally-equal([V*],[W*]))
+// Tuples
+Rule
+  is-structurally-equal(tuple(),tuple()) ~> true
+Rule
+  is-structurally-equal(tuple(V,V+),tuple(W,W+)) ~>
+  	and(is-structurally-equal(V,W),is-structurally-equal(tuple(V+),tuple(W+)))
+// Variants
+Rule
+  is-structurally-equal(variant(Con1,V1),variant(Con2,V2)) ~>
+  	if-true-else(
+  	  is-equal(Con1,Con2),
+  	  if-true-else(
+  	  	or(is-equal(null,V1),is-equal(null,V2)),
+  	  	and(is-equal(null,V1),is-equal(null,V2)),
+  	  	is-structurally-equal(V1,V2)),
+  	  false)
+// Records
+Rule
+                       dom(Map1) == dom(Map2)  // FIX-ME ?
+  ----------------------------------------------------------------------
+  is-structurally-equal(record(Map1),record(Map2))
+    ~> not(is-in-set(false, 
+         interleave-map(
+           is-structurally-equal(lookup(given,Map1),lookup(given,Map2)),
+           set-elements(dom(Map1)))))
+// Vectors
+Rule
+  is-structurally-equal(Vec1:vectors(values),Vec2:vectors(values)) ~>
+  	is-structurally-equal([vector-elements(Vec1)],[vector-elements(Vec2)])
+
+// TODO: doesn't quite display composite refs/variants correctly,
+//       they need to be parenthesised some of the time 
+Funcon
+  caml-light-show(_:values) : =>strings
+Rule // Unit
+  caml-light-show(tuple()) ~> "()"
+Rule // Booleans
+  caml-light-show(B:booleans) ~> to-string(B)
+Rule // Integers
+  caml-light-show(I:implemented-integers) ~> to-string(I)
+Rule // Floats
+  caml-light-show(F:implemented-floats) ~> to-string(F)
+Rule // Characters
+  caml-light-show(C:implemented-characters) ~>
+  	string-append("`",to-string(C),"`")
+Rule // Strings
+  caml-light-show(S:strings) ~> string-append("\"",S,"\"")
+Rule // Functions
+  caml-light-show(_:functions(_,_)) ~> "<fun>"
+Rule // References
+  caml-light-show(V:variables) ~>
+  	string-append("ref ",caml-light-show(assigned(V)))
+Rule // Variants
+  caml-light-show(variant(Con,Arg)) ~>
+  	if-true-else(is-equal(null,Arg),Con,string-append(Con," ",caml-light-show(Arg)))
+Rule // Tuples
+  caml-light-show(tuple(V:values,V+:values+)) ~>
+  	string-append(
+  	  "(",
+  	  string-append(
+  	    intersperse(", ", interleave-map(caml-light-show(given),V,V+))),
+  	  ")")
+Rule // Lists
+  caml-light-show([V*:values*]) ~>
+  	string-append(
+  	  "[",
+  	  string-append(
+  	    intersperse(", ", interleave-map(caml-light-show(given),V*))),
+  	  "]")
+Rule // Vectors
+  caml-light-show(V:implemented-vectors) ~>
+  	string-append(
+  	  "[|",
+  	  string-append(
+  	    intersperse(", ", 
+  	      interleave-map(caml-light-show(given),
+  	                     vector-elements(current-value(V))))),
+  	  "|]")
+Rule // Records
+  caml-light-show(record(M:maps(_,_))) ~>
+  	string-append(
+  	  "{",
+  	  string-append(
+  	    intersperse("; ", 
+  	      interleave-map(
+  	        string-append(arg(1)," = ",caml-light-show(arg(2))),
+  	        map-points(current-value(M))))),
+  	  "}")
+
+
+/*
+  `curry-n(N,F)` is a generalisation of `curry(F)`.  It converts a function that
+  takes a tuple of `N` arguments into a curried function that takes its
+  arguments one at a time.
+*/
+Funcon
+  curry-n(_:nats,_:functions(tuples(R,S*),T)) : functions(R,values)
+Rule
+  curry-n(1,F) ~> F
+Rule
+  curry-n(2,F) ~> curry(F)  
+Rule
+      is-greater(N,2) == true
+  ---------------------------------------------------------------
+  curry-n(N,F)
+    ~> function abstraction(
+         curry-n(integer-subtract(N,1),partial-apply-n(F,given)))
+  
+/*
+  `partial-apply-n(F,V)` provides `V` as the first argument to a function
+  expecting a tuple of 3 or more arguments, returning a function expecting
+  1 fewer argument.
+*/
+Auxiliary Funcon
+  partial-apply-n(F:functions(tuples(R,S,T+),U), V:R) : functions(tuples(S,T+),U)
+    ~> function abstraction(apply(F,tuple(V,tuple-elements(given))))
