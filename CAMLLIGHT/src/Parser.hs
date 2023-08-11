@@ -6,8 +6,8 @@ import Concrete
 
 -- import GLL.Combinators.Interface hiding (Assoc(..), Fixity(..))
 -- import GLL.Combinators.BinaryInterface hiding (Assoc(..), Fixity(..))
-import GLL.ParserCombinators hiding (Assoc(..), Fixity(..))
--- import GLL.ParserCombinatorsLookahead hiding (Assoc(..), Fixity(..))
+-- import GLL.ParserCombinators hiding (Assoc(..), Fixity(..))
+import GLL.ParserCombinatorsLookahead hiding (Assoc(..), Fixity(..))
 
 import qualified Data.IntMap as IM
 

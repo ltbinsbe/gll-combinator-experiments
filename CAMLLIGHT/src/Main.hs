@@ -7,8 +7,8 @@ import Parser
 import Concrete
 
 -- import GLL.Combinators
-import GLL.ParserCombinators
--- import GLL.ParserCombinatorsLookahead
+-- import GLL.ParserCombinators
+import GLL.ParserCombinatorsLookahead
 
 import Control.Monad
 import Data.List

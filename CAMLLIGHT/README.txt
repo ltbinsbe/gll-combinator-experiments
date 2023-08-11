@@ -8,18 +8,18 @@ LANGUAGE DEVIATIONS
 #1: "not" as prefix-operator and keyword
 #2: "**" as keyword
 #3: Capitalised identifiers are reserved for constructors
-      - "true" and "false" are builtin constant constructors 
+      - "true" and "false" are builtin constant constructors
           added to `cconstr` as keywords
 #4: add [||] as builtin constant constructor
 #5: removed expr ::= ident (redundant)
 #6: "mod" as a keyword
-#7: removed [] from pattern (already covered by constant) 
+#7: removed [] from pattern (already covered by constant)
 #8: start a simple matching with an optional "|"
 
 PARSER EVALUATION
 
-inputs/*_camlc.ml: 
-  test programs obtained by concatenating several combinations of files 
+inputs/*_camlc.ml:
+  test programs obtained by concatenating several combinations of files
   taken from https://github.com/FBoisson/Camllight/tree/master/src/compiler
 
 execs/flexible:       parser, flexible BNF combinators without lookahead
@@ -39,7 +39,7 @@ NB. The lexicalisation phase produces a slightly different number of tokens sinc
 0) Fetching dependencies
 
    cabal get /local/path/dist-newbuild/sdist/fungll-combinators-remco-0.4.1.1.tar.gz
-   cabal configure 
+   cabal configure
 
 The first command uses a locally installed version of the mentioned package and fetches into the current build environment.
 
@@ -181,7 +181,7 @@ Make sure that in src/Main.hs:
 
 The timings in the table are printed as "recognition time".
 
-6) Getting the "fungll" data
+6) Getting the "fungll-look" data
 
 Make sure that in src/Parser.hs:
   * line 7  is commented out

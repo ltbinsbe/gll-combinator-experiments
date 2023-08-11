@@ -1,13 +1,13 @@
 
-This grammar is a transcription of the rules in section A13 of 'The C Programming Language' by Brian W Kernighan and Dennis M Ritchie, second edition 1988 (Prentice Hall, ISBN 0-13-110362-8). 
+This grammar is a transcription of the rules in section A13 of 'The C Programming Language' by Brian W Kernighan and Dennis M Ritchie, second edition 1988 (Prentice Hall, ISBN 0-13-110362-8).
 
 inputs/*_gtb.toc: input strings obtained by concatenating several combinations
-                  of source files taken from a `Grammar Tool Box' 
+                  of source files taken from a `Grammar Tool Box'
                   and then tokenised by a separate lexer
 inputs/*_rdp.toc: input strings obtained by concatenating several combinations
                   of source files taken from a `Recursive Descent Parser generator'
                   and then tokenised by a separate lexer
-              
+
 execs/flexible:       parser, flexible BNF combinators without lookahead
 execs/flexible-look:  parser, flexible BNF combinators with lookahead
 execs/binarised:      parser, flexible BNF combinators with binarisation and without lookahead
@@ -51,9 +51,9 @@ Make sure that in GLLCombParser.hs
 
   * line 2    is commented out
   * line 3    is not commented out
-  * line 4    is commented out 
-  * line 5    is commented out 
-  * line 538  is commented out 
+  * line 4    is commented out
+  * line 5    is commented out
+  * line 538  is commented out
   * line 539  is not commented out
 
   ghc -o execs/flexible GLLMain.hs -package gll
@@ -76,7 +76,7 @@ Make sure that in GLLCombParser.hs
   * line 3    is commented out
   * line 4    is commented out
   * line 5    is commented out
-  * line 538  is commented out 
+  * line 538  is commented out
   * line 539  is not commented out
 
   ghc -o execs/binarised GLLMain.hs -package gll
@@ -99,7 +99,7 @@ The timings in the table are printed as "recognition time".
   * line 3    is commented out
   * line 4    is commented out
   * line 5    is commented out
-  * line 538  is not commented out 
+  * line 538  is not commented out
   * line 539  is commented out
 
   ghc -o execs/binarised-look GLLMain.hs -package gll
@@ -118,16 +118,16 @@ The timings in the table are printed as "recognition time".
 
 Make sure that in GLLCombParser.hs:
 
-  * line 2    is commented out       
-  * line 3    is commented out       
-  * line 4    is not commented out   
-  * line 5    is commented out       
-  * line 538  is not commented out 
-  * line 539  is commented out    
+  * line 2    is commented out
+  * line 3    is commented out
+  * line 4    is not commented out
+  * line 5    is commented out
+  * line 538  is not commented out
+  * line 539  is commented out
 
   ghc -o execs/fungll GLLMain.hs -package fungll-combinators
 
-Running the following commands should produce timings 
+Running the following commands should produce timings
 
   execs/fungll inputs/1515_rdp.tok
   execs/fungll inputs/8411_rdp.tok
@@ -141,16 +141,16 @@ The timings in the table are printed as "recognition time".
 
 Make sure that in GLLCombParser.hs:
 
-  * line 2    is commented out  
-  * line 3    is commented out   
-  * line 4    is commented out    
-  * line 5    is not commented out 
+  * line 2    is commented out
+  * line 3    is commented out
+  * line 4    is commented out
+  * line 5    is not commented out
   * line 538  is not commented out
-  * line 539  is commented out     
+  * line 539  is commented out
 
-  ghc -o execs/fungll GLLMain.hs -package fungll-combinators-remco
+  ghc -o execs/fungll-look GLLMain.hs -package fungll-combinators-remco
 
-Running the following commands should produce timings 
+Running the following commands should produce timings
 
   execs/fungll-look inputs/1515_rdp.tok
   execs/fungll-look inputs/8411_rdp.tok
