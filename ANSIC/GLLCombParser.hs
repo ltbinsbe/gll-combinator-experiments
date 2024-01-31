@@ -1,7 +1,7 @@
 module GLLCombParser (GLLCombParser.parse,Abstract_declarator,Additive_expression,And_expression,Argument_expression_list,Assignment_expression,Assignment_operator,Cast_expression,Character_constant,Compound_statement,Conditional_expression,Constant,Constant_expression,Declaration,Declaration_list,Declaration_specifiers,Declarator,Direct_abstract_declarator,Direct_declarator,Enum_specifier,Enumeration_constant,Enumerator,Enumerator_list,Equality_expression,Exclusive_or_expression,Expression,Expression_statement,External_declaration,Floating_constant,Function_definition,Identifier,Identifier_list,Inclusive_or_expression,Init_declarator,Init_declarator_list,Initializer,Initializer_list,Integer_constant,Iteration_statement,Jump_statement,Labeled_statement,Logical_and_expression,Logical_or_expression,Multiplicative_expression,Parameter_declaration,Parameter_list,Parameter_type_list,Pointer,Postfix_expression,Primary_expression,Relational_expression,Selection_statement,Shift_expression,Specifier_qualifier_list,Statement,Statement_list,Storage_class_specifier,Stringlit,Struct_declaration,Struct_declaration_list,Struct_declarator,Struct_declarator_list,Struct_or_union,Struct_or_union_specifier,Translation_unit,Type_name,Type_qualifier,Type_qualifier_list,Type_specifier,Typedef_name,Unary_expression,Unary_operator,GLLCombParser.Token(..)) where
 --import GLL.Combinators.BinaryInterface as Lib
 --import GLL.Combinators.Interface as Lib
--- import GLL.ParserCombinators as Lib
+--import GLL.ParserCombinators as Lib
 import GLL.ParserCombinatorsLookahead as Lib
 data Abstract_declarator = Abstract_declarator1 Pointer
                          | Abstract_declarator2 Pointer Direct_abstract_declarator

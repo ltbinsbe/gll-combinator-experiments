@@ -1,8 +1,8 @@
 
 CBS compiler (Van Binsbergen @ MODULARITY 2016)
 
-inputs/*cbs: 
-  test programs obtained by concatenating several combinations of files 
+inputs/*cbs:
+  test programs obtained by concatenating several combinations of files
   https://plancomps.github.io/CBS-beta/Languages-beta/OCaml-Light/
 
 execs/flexible:       parser, flexible BNF combinators without lookahead
@@ -24,12 +24,12 @@ To install, a local installation of `uu-cco` version `>= 0.1.0.6` is required, p
 
 1. download and unpack zip
 2. enter folder `uu-cco` and run `cabal sdist`
-3. within the `funcons-intgen` repository folder:  
-`cabal get <UU-CCO/dist-newstyle/sdist/uu-cco-<VERSION>.tar.gz`  
+3. within the `funcons-intgen` repository folder:
+`cabal get <UU-CCO/dist-newstyle/sdist/uu-cco-<VERSION>.tar.gz`
 where `<UU-CCO>` is the path to the `uu-cco` folder of the previous step and `<VERSION>` is the version of the package (`>= 0.1.0.6`)
 
 After these steps, confirm the dependencies by executing
-    
+
     cabal configure
 
 1) Getting the "flexible+" data
@@ -83,7 +83,7 @@ The timings in the table are printed as "total time".
 Make sure that in src/Parsing/Combinators.hs:
   * line 5 is commented out
   * line 6 is not commented out
-  * line 7 is commented out 
+  * line 7 is commented out
 
 Make sure that in src/Parsing/Spec.hs:
   * line 16 is not commented out
@@ -105,7 +105,7 @@ The timings in the table are printed as "total time".
 Make sure that in src/Parsing/Combinators.hs:
   * line 5 is commented out
   * line 6 is not commented out
-  * line 7 is commented out 
+  * line 7 is commented out
 
 Make sure that in src/Parsing/Spec.hs:
   * line 16 is commented out
@@ -127,7 +127,7 @@ The timings in the table are printed as "total time".
 Make sure that in src/Parsing/Combinators.hs:
   * line 5 is commented out
   * line 6 is commented out
-  * line 7 is not commented out 
+  * line 7 is not commented out
 
 Make sure that in src/Parsing/Spec.hs:
   * line 16 is commented out
@@ -144,4 +144,26 @@ Make sure that in src/Parsing/Spec.hs:
 
 The timings in the table are printed as "total time".
 
+
+6) Getting the "fungll+" data
+
+Make sure that in src/Parsing/Combinators.hs:
+  * line 5 is commented out
+  * line 6 is commented out
+  * line 7 is not commented out
+
+Make sure that in src/Parsing/Spec.hs:
+  * line 16 is commented out
+  * line 17 is commented out
+  * line 18 is not commented out
+
+  cabal build && cp dist-newstyle/build/x86_64-linux/ghc-9.2.8/funcons-intgen-0.2.0.0/x/cbsc/build/cbsc/cbsc execs/fungll-look
+
+  execs/fungll inputs/2653_CL_12_Core_Library.cbs
+  execs/fungll inputs/14824_ocamllight.cbs
+  execs/fungll inputs/17593_ocamllight.cbs
+  execs/fungll inputs/21162_ocamllight.cbs
+  execs/fungll inputs/26016_ocamllight.cbs
+
+The timings in the table are printed as "total time".
 
